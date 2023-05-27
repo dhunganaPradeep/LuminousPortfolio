@@ -1,7 +1,7 @@
 # LuminousPortfolio
 
 ## Project Description
-LuminousPortfolio is a visually appealing portfolio website created using HTML, CSS, and JavaScript. It gives an interactive platform for displaying skills and accomplishments. The website provides a seamless user experience with features like dark/light mode and adjustable text color, allowing you to modify the appearance of your portfolio.
+LuminousPortfolio is a visually appealing portfolio website created using HTML, CSS, and JavaScript.
 
 ## Features
 
