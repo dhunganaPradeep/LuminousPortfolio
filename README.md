@@ -1,8 +1,10 @@
-# Zoro
+# [Zoro](https://kingofhell.netlify.app/)
 
 ## Description
 
 This website is tribute to my favorite anime character, Zoro, from the anime series called One Piece. This website showcases Zoro's journey as a skilled swordsman and his growth as a character.It allows users to explore Zoro's experiences, skills, and achievements in an engaging and immersive manner.
+
+## View live [Zoro](https://kingofhell.netlify.app/)
 
 ![Output](images/output.png)
 
